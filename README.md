@@ -1,3 +1,4 @@
+
 # 😃 Holman Alfonso 👨‍💻
 Soy una persona cuyo interés principal es estudiar y aprender cosas nuevas cada día, me gusta aprovechar todos los recursos online disponibles para lograr este objetivo. Me destaco por acoplarme con facilidad a los cambios sin perder la más mínima calidad de compromiso y así lograr mejores resultados. 
 ___
@@ -30,5 +31,8 @@ ___
 ![icons8-visual-studio-code-2019-100](https://user-images.githubusercontent.com/110309831/189401764-f2dbfcee-2b1f-4044-b1ea-d6b7b05baba8.png) | Visual Studio Code
 -- | --
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100HOLMAN&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100HOLMAN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

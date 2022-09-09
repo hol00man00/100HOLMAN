@@ -1,0 +1,84 @@
+.menu {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 1px 3px 3px black;
+    background: white;
+}
+
+.logo{ 
+    width: 15%;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2vw;
+    text-decoration: none;
+    color:black;
+}
+
+i {
+    font-size: 2vw;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3vw;
+    color:black;
+    border: 3vw solid white;
+}
+
+.nuva_coleccion{
+    display: flex;
+    align-items: center;
+}
+
+.video1{
+    max-width: 100%;
+}
+
+.otoño1{
+    border-left: 50px solid white;
+}
+
+/*.otoño{
+    border: solid ;
+}*/
+
+.otoño2{
+    display: flex;
+    align-items: center;
+
+}
+
+.img1{
+    border: 5px solid white;
+    max-width: 90%;
+}
+
+.tarjeta{
+    font-family: 'Times New Roman', Times, serif;
+    border: 10vw;
+    display:flex;
+    justify-content: center;
+    border-top: 5vw solid white;
+}
+
+.otoño{
+    max-width: 100%;
+}
+
+.dropdown{
+    max-width: 100%;
+}
+
+.card{
+    font-family: 'Times New Roman', Times, serif;
+    border: 2vw solid white;
+}
+
+.contacto{
+    font-family: 'Times New Roman', Times, serif;
+    background: black;
+    color: white;
+}

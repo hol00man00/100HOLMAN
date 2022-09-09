@@ -30,7 +30,9 @@ ___
 ## 🛠️ IDE 🔨
 ![icons8-visual-studio-code-2019-100](https://user-images.githubusercontent.com/110309831/189401764-f2dbfcee-2b1f-4044-b1ea-d6b7b05baba8.png) | Visual Studio Code
 -- | --
+___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100HOLMAN&show_icons=true&theme=radical)
 
+___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100HOLMAN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

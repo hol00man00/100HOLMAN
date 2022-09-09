@@ -1,4 +1,4 @@
-
+![Texto alternativo](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 # 😃 Holman Alfonso 👨‍💻
 Soy una persona cuyo interés principal es estudiar y aprender cosas nuevas cada día, me gusta aprovechar todos los recursos online disponibles para lograr este objetivo. Me destaco por acoplarme con facilidad a los cambios sin perder la más mínima calidad de compromiso y así lograr mejores resultados. 
 ___
